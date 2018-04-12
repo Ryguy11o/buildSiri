@@ -84,8 +84,8 @@ public class Agile_Siri extends JFrame {
               
            }
            else if (user_input.contains(q2)){
-               System.out.println("Your GPA");
-               app.textArea.append("Your GPA\n");
+               System.out.println("Ryan O'Neill's GPA");
+               app.textArea.append("Ryan O'Neill's GPA\n");
            } 
            else if (user_input.contains(q4)){
                System.out.println("I am made of wires and circuits, I don't have feelings. But to answer your question, I am well:-)");
